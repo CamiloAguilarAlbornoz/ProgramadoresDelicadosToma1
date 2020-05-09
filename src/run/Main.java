@@ -12,5 +12,8 @@ public class Main {
 		}
 	}
 
-}
+	public void probando(){
+		System.out.println("oo");
+	}
 
+}
